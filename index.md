@@ -192,7 +192,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong>
-Attendees can use a classroom computer or bring a laptop with access to Excel. Other workshop software and data will be accessed through BeoCat. <strong>ttendees who do not already have an active <a href="https://beocat.ksu.edu">BeoCat account</a> should request one by August 4th</strong>A
+Attendees can use a classroom computer or bring a laptop with access to Excel. Other workshop software and data will be accessed through BeoCat. <strong>Attendees who do not already have an active <a href="https://beocat.ksu.edu">BeoCat account</a> should request one by August 4th</strong>
 </p>
 
 {% comment %}
